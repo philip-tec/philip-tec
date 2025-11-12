@@ -1,7 +1,7 @@
 <h1 align="center">🔥 7+ Years of Programming Experience</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-PhilipDev%231234-7289da?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-philipalb-7289da?style=for-the-badge&logo=discord&logoColor=white">
   <br>
   <a href="mailto:philipda@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
