@@ -8,15 +8,6 @@
   </a>
 </p>
 
----
-
-### 🤝 What I Offer
-- Open to **build commissions**, **team collaborations**, and **network partnerships**
-- Experience with **Minecraft server development**, **plugin coding**, and **backend systems**
-- Focused on **performance**, **quality**, and **long-term reliability**
-
----
-
 ### 🧍 About Me
 - Minecraft developer with several years of experience  
 - Owner of **BiscuitSMP****  
