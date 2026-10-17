@@ -19,7 +19,7 @@
 
 ### 🧍 About Me
 - Minecraft developer with several years of experience  
-- Owner of **CobaMC**, a new and growing network featuring **OP Prison** and more gamemodes  
+- Owner of **BiscuitSMP****  
 - Experienced in managing, setting up and develop Minecraft Servers 
 
 ---
@@ -33,5 +33,5 @@
 ---
 
 ### 🚧 Current Projects
-- **CobaMC** – Minecraft network with OP Prison and upcoming gamemodes  
+- **BiscuitSMP** – Minecraft Server with SMP and upcoming gamemodes  
 ---
